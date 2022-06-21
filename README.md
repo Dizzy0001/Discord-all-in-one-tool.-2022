@@ -1,4 +1,4 @@
-# Discord-all-in-one-tool.-2022 JUNE
+# Discord-TOKEN GRABBER 2022
 This tool is coded by Dizzy?D#0001
 
 How to use?:
@@ -7,4 +7,4 @@ If you need help join my server or dm me...
 https://discord.gg/USvrSgqnb9
 
 This is V1.0 meaning we just made it and we will update it alot!
-
+V1.1 IS OUT IN THE DISCORD SERVER!!!
